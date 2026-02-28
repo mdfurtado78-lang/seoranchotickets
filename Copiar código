@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEO Rancho Ingressos</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f0f0f;
+    color: white;
+    text-align: center;
+}
+.container {
+    padding: 30px 20px;
+}
+h1 {
+    color: #d4af37;
+    font-size: 28px;
+}
+.evento {
+    background: #1c1c1c;
+    padding: 20px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+.botao {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+.dourado {
+    background: #d4af37;
+    color: black;
+}
+.verde {
+    background: #1db954;
+    color: white;
+}
+.whats {
+    background: #25d366;
+    color: white;
+}
+footer {
+    margin-top: 30px;
+    font-size: 12px;
+    opacity: 0.6;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>SEO RANCHO INGRESSOS</h1>
+
+<div class="evento">
+<h2>🔥 Samba & Churrasco 🔥</h2>
+<p>📅 Data: 15 de Março<br>
+⏰ Horário: 14h às 22h<br>
+📍 Novo Endereço</p>
+</div>
+
+<a href="COLE_AQUI_LINK_LOTE1" class="botao dourado">
+🎟 Comprar Lote 1 – R$ 30
+</a>
+
+<a href="COLE_AQUI_LINK_LOTE2" class="botao dourado">
+🎟 Comprar Lote 2 – R$ 35
+</a>
+
+<a href="COLE_AQUI_LINK_VIP" class="botao verde">
+👑 Área VIP – R$ 120
+</a>
+
+<a href="https://wa.me/55SEUNUMEROAQUI" class="botao whats">
+📲 Falar no WhatsApp
+</a>
+
+<footer>
+SEO Rancho © 2026
+</footer>
+
+</div>
+</body>
+</html>
